@@ -1,0 +1,4313 @@
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+# Java build artifacts
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven target directory
+/target/
+
+# Logs
+*.log
+
+# Spring Boot dev tools
+.spring-boot-devtools.properties
+
+# IDE files
+## IntelliJ
+.idea/
+*.iml
+out/
+
+## Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+## VS Code
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Temporary files
+*.tmp
+*.swp
+
+# Test reports
+/test-output/
+surefire-reports/
+jacoco.exec
+
+# Dependency directories
+/node_modules/
+
